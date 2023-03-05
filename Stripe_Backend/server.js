@@ -18,12 +18,12 @@ app.use(cors());
 app.use(
   cors({
    
-    origin: ["http://localhost:3000/", "https://checkout.stripe.com", "https://magic-kart.vercel.app/" ],
+    origin: ["http://localhost:3000/", "https://checkout.stripe.com", "https://magickart.vercel.app/" ],
   })
 )
 
 
-const YOUR_DOMAIN = 'http://localhost:3000/';
+const YOUR_DOMAIN = 'https://magickart.vercel.app/';
 
 app.get('/', (req,res) => {
 
