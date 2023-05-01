@@ -16,3 +16,11 @@ The website features a custom CMS as a backend built using Sanity.io for managin
 * Product management using Sanity.io CMS
 * Shopping cart functionality with Stripe integration for secure payment processing
 * Responsive design for optimal user experience on desktop and mobile devices
+
+
+## Installation
+1. Clone the repository.
+2. Install dependencies using npm install.
+3. Create a Firebase project and add your Firebase configuration details to src/firebase/firebase.utils.js.
+4. Create a Sanity.io project and add your Sanity.io API details to src/sanity/sanityClient.js.
+5. Start the development server using npm start.
