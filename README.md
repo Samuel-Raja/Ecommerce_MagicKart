@@ -25,6 +25,24 @@ The website features a custom CMS as a backend built using Sanity.io for managin
 4. Create a Sanity.io project and add your Sanity.io API details to src/sanity/sanityClient.js.
 5. Start the development server using npm start.
 
+## Stripe Test Card 
+
+To test payments on this ecommerce website, use the following test card information provided by Stripe:
+
+*Card number:
+4242 4242 4242 4242
+
+*Expiration date:
+Any future date
+
+*CVC:
+Any 3 digits
+
+
+![image](https://user-images.githubusercontent.com/106824866/235489413-f08962cb-ca0f-4bb8-90f0-51bd63463179.png)
+
+
+
 ## Screen Shots
 
 ![image](https://user-images.githubusercontent.com/106824866/235487218-d86c81f0-13bf-4b9b-b96a-5df5b1a0752f.png)
