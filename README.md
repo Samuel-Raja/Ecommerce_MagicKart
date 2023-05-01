@@ -13,6 +13,6 @@ The website features a custom CMS as a backend built using Sanity.io for managin
 
 ## Features
 * User authentication and account management using Firebase Authentication and Realtime Database
-Product management using Sanity.io CMS
-Shopping cart functionality with Stripe integration for secure payment processing
-Responsive design for optimal user experience on desktop and mobile devices
+* Product management using Sanity.io CMS
+* Shopping cart functionality with Stripe integration for secure payment processing
+* Responsive design for optimal user experience on desktop and mobile devices
